@@ -1,1 +1,16 @@
-
+{
+  "stock": [
+    {
+      "id": 1,
+      "name": "Flash POP FUNKO",
+      "image": "https://i5.walmartimages.com/asr/1313c8a8-ea47-4ff7-885f-859bbddfa1ab_1.cf20e25f395f6b160a832b488d0cd357.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Zoom POP FUNKO",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51kMrisYp%2BL._SX425_.jpg",
+      "price": 15
+    }
+  ]
+}
